@@ -4,7 +4,7 @@
 A simple Spring Boot app demonstrating:
 - MVC layered architecture
 - In-memory repository
-- Dependency Injection
+- Dependency Injection 
 - Unit testing
 
 ## Technologies Used
